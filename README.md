@@ -13,7 +13,7 @@ Login Page:
     The user can log in using email and password.
 
 Dashboard Page:
-    After successful login, users can see the articles created by other users based on his preferences(Given during signup) on his dashboard. He can click and view the articles, where he can like, dislike, block the article. The Article view can be a separate page or a Popup.
+    After successful login, users can see the articles created by other users based on his preferences(Given during signup) on his dashboard. They can click and view the articles, where they can like, dislike, block the article. The Article view can be a separate page or a Popup.
 
 Settings Page:
     They can edit his personal information including changing their password. They can also edit their article preferences.
