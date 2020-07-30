@@ -1,0 +1,32 @@
+#success-alert,
+#info-alert,
+#warning-alert,
+#error-alert{
+    color: white;
+    text-align: center;
+    height: auto;
+    width: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+#success-alert{
+    background-color: rgb(5, 163, 0);
+    border: solid 2px rgb(0, 63, 10);
+}
+
+#warning-alert{
+    background-color: orange;
+    border: solid 2px rgb(97, 63, 1);
+}
+
+#info-alert{
+    background-color: rgb(23, 203, 216);
+    border: solid 2px rgb(8, 71, 80);
+}
+
+#error-alert{
+    background-color: rgb(180, 38, 34);
+    border: solid 2px rgb(133, 9, 0);
+}
